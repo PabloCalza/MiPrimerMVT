@@ -55,7 +55,7 @@ ROOT_URLCONF = 'MiPrimerMVT.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["C:/Users/enlab/Desktop/Pablo2/plantillas/"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
